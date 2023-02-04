@@ -1,0 +1,10 @@
+
+**/__pycache__
+.vscode
+**/*.pyc
+*.pyc
+**/.pytest_cache
+**/*.coverage
+**/*.coverage.xml
+*.coverage
+*.coverage.xml
